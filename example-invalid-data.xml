@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SensorReadings>
+    <Reading>
+        <SensorId>s1</SensorId>
+        <Value>42</Value>
+        <Timestamp>2024-02-15T12:00:00.000Z</Timestamp>
+    </Reading>
+    <Reading>
+        <SensorId>2</SensorId>
+        <Value>36</Value>
+        <Timestamp>2024-02-15T12:05:00.000Z</Timestamp>
+    </Reading>
+    <Reading>
+        <SensorId>3</SensorId>
+        <Value>58</Value>
+        <Timestamp>2024-02-15T12:10:00.000Z</Timestamp>
+    </Reading>
+</SensorReadings>
