@@ -1,0 +1,267 @@
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:48.964Z","value":46},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:49.699Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:48.986Z","value":97},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:49.704Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:48.987Z","value":71},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:49.705Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:49.964Z","value":17},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:49.971Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:49.987Z","value":70},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:49.993Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:49.990Z","value":20},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:49.995Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:50.965Z","value":40},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:50.975Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:50.988Z","value":36},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:50.993Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:50.990Z","value":42},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:50.994Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:51.966Z","value":26},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:51.973Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:51.989Z","value":51},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:51.993Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:51.991Z","value":16},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:51.993Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:52.967Z","value":14},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:52.973Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:52.990Z","value":84},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:52.994Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:52.992Z","value":26},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:52.995Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:53.968Z","value":69},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:53.973Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:53.991Z","value":59},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:53.994Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:53.993Z","value":62},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:53.995Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:54.968Z","value":45},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:54.973Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:54.992Z","value":0},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:54.995Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:54.994Z","value":48},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:54.996Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:55.970Z","value":31},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:55.997Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:55.998Z","value":0},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:56.000Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:55.999Z","value":16},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:56.001Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:56.970Z","value":23},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:56.980Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:56.999Z","value":2},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:57.003Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:56.999Z","value":93},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:57.005Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:57.971Z","value":11},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:57.977Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:57.999Z","value":55},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:58.002Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:58.000Z","value":55},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:58.003Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:58.972Z","value":69},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:58.976Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:29:59.001Z","value":60},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:59.003Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:29:59.002Z","value":20},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:59.004Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:29:59.973Z","value":99},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:29:59.981Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:30:00.002Z","value":23},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:00.011Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:30:00.002Z","value":93},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:00.012Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:30:00.973Z","value":28},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:00.979Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:30:01.003Z","value":30},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:01.006Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:30:01.004Z","value":4},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:01.006Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:30:01.974Z","value":96},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:01.979Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:30:02.005Z","value":89},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:02.009Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:30:02.004Z","value":0},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:02.010Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:30:02.976Z","value":29},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:02.981Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:30:03.005Z","value":40},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:03.009Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:30:03.006Z","value":78},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:30:03.011Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:32:16.684Z","value":76},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:16.720Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:32:16.711Z","value":50},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:16.722Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:32:16.712Z","value":45},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:16.723Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:32:17.684Z","value":36},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:17.691Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:32:17.712Z","value":94},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:17.718Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:32:17.717Z","value":3},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:17.719Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:32:18.685Z","value":21},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:18.693Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:32:18.715Z","value":98},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:18.721Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:32:18.718Z","value":84},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:18.723Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-15T14:32:19.686Z","value":91},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:19.693Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-15T14:32:19.716Z","value":87},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:19.721Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-15T14:32:19.719Z","value":9},"error":"getaddrinfo ENOTFOUND api","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-15T14:32:19.721Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:10.475Z","value":89},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:10.985Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:10.473Z","value":71},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:10.989Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:10.411Z","value":63},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:11.076Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:11.412Z","value":86},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:11.473Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:11.475Z","value":36},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:11.573Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:11.477Z","value":80},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:11.575Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:12.414Z","value":46},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:12.477Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:12.483Z","value":8},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:12.543Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:12.481Z","value":96},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:12.565Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:13.421Z","value":67},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:13.491Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:13.487Z","value":58},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:13.600Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:13.485Z","value":38},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:13.618Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:14.422Z","value":78},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:14.456Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:14.486Z","value":8},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:14.549Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:14.488Z","value":78},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:14.569Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:15.423Z","value":92},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:15.463Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:15.489Z","value":21},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:15.590Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:15.486Z","value":13},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:15.592Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:16.424Z","value":52},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:16.489Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:16.490Z","value":66},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:16.590Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:16.492Z","value":74},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:16.591Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:17.492Z","value":32},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:17.574Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:17.424Z","value":16},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:17.575Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:17.495Z","value":91},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:17.594Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:18.426Z","value":3},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:18.494Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:18.495Z","value":37},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:18.574Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:18.497Z","value":44},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:18.575Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:19.427Z","value":24},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:19.487Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:19.497Z","value":27},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:19.599Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:19.495Z","value":9},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:19.601Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:20.427Z","value":92},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:20.461Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:20.496Z","value":18},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:20.547Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:20.497Z","value":41},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:20.565Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:21.427Z","value":93},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:21.472Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:21.497Z","value":97},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:21.643Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:21.499Z","value":55},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:21.645Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:22.429Z","value":43},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:22.455Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:22.497Z","value":14},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:22.627Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:22.499Z","value":24},"error":"self-signed certificate","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:22.654Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:23.429Z","value":74},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:23.437Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:23.497Z","value":66},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:23.504Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:23.499Z","value":75},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:23.505Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:24.430Z","value":62},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:24.436Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:24.499Z","value":27},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:24.504Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:24.501Z","value":10},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:24.505Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:25.432Z","value":32},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:25.442Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:25.499Z","value":94},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:25.525Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:25.520Z","value":44},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:25.528Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:26.432Z","value":6},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:26.436Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:26.499Z","value":85},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:26.502Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:26.521Z","value":77},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:26.524Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:27.434Z","value":19},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:27.437Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:27.501Z","value":74},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:27.502Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:27.522Z","value":95},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:27.523Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:28.435Z","value":88},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:28.441Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:28.501Z","value":58},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:28.505Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:28.522Z","value":97},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:28.526Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:29.436Z","value":66},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:29.438Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:29.502Z","value":99},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:29.505Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:29.523Z","value":50},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:29.525Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:30.436Z","value":22},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:30.439Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:30.503Z","value":45},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:30.505Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:30.523Z","value":73},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:30.525Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:31.437Z","value":100},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:31.443Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:31.504Z","value":47},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:31.507Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:31.524Z","value":36},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:31.526Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:32.438Z","value":73},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:32.443Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:32.505Z","value":2},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:32.512Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:32.525Z","value":1},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:32.527Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:33.439Z","value":8},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:33.443Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:33.507Z","value":48},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:33.509Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:33.527Z","value":24},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:33.529Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:34.438Z","value":14},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:34.444Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:34.508Z","value":6},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:34.511Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:34.528Z","value":100},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:34.530Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:35.439Z","value":4},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:35.444Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:35.509Z","value":82},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:35.513Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:35.528Z","value":52},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:35.530Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:36.440Z","value":76},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:36.447Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:36.510Z","value":90},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:36.514Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:36.529Z","value":38},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:36.531Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:37.441Z","value":48},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:37.446Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:37.511Z","value":67},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:37.515Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:37.530Z","value":28},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:37.532Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:38.443Z","value":7},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:38.447Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:38.512Z","value":15},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:38.514Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:38.531Z","value":26},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:38.533Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:39.444Z","value":55},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:39.448Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:39.513Z","value":45},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:39.515Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:39.532Z","value":26},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:39.534Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:40.445Z","value":21},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:40.446Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:40.513Z","value":33},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:40.514Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:40.532Z","value":43},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:40.533Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:41.447Z","value":59},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:41.452Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:41.514Z","value":24},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:41.517Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:41.534Z","value":83},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:41.536Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:42.447Z","value":95},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:42.450Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:42.515Z","value":17},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:42.518Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:42.535Z","value":50},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:42.537Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:43.448Z","value":92},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:43.450Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:43.516Z","value":9},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:43.518Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:43.536Z","value":56},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:43.537Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:44.449Z","value":99},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:44.455Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:44.517Z","value":19},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:44.520Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:44.538Z","value":58},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:44.540Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:45.451Z","value":35},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:45.457Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:45.518Z","value":45},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:45.521Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:45.538Z","value":28},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:45.540Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:46.452Z","value":59},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:46.458Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:46.519Z","value":82},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:46.521Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:46.538Z","value":99},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:46.541Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:47.453Z","value":88},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:47.459Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:47.519Z","value":19},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:47.523Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:47.538Z","value":15},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:47.543Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:48.454Z","value":46},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:48.460Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:48.520Z","value":51},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:48.524Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:48.539Z","value":15},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:48.542Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:49.455Z","value":50},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:49.460Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:49.521Z","value":26},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:49.524Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:49.539Z","value":46},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:49.543Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:50.456Z","value":53},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:50.460Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:50.523Z","value":83},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:50.525Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:50.540Z","value":92},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:50.542Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:51.457Z","value":8},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:51.463Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:51.524Z","value":52},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:51.528Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:51.540Z","value":53},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:51.543Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:52.458Z","value":5},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:52.463Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:52.524Z","value":75},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:52.526Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:52.541Z","value":10},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:52.543Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:53.459Z","value":60},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:53.460Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:53.525Z","value":2},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:53.527Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:53.542Z","value":94},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:53.544Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:54.460Z","value":29},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:54.465Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:54.527Z","value":88},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:54.528Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:54.543Z","value":38},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:54.544Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:55.461Z","value":65},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:55.463Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:55.528Z","value":52},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:55.531Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:55.544Z","value":47},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:55.546Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:56.462Z","value":37},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:56.466Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:56.529Z","value":43},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:56.532Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:56.545Z","value":78},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:56.547Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:57.463Z","value":61},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:57.469Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:57.530Z","value":78},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:57.535Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:57.545Z","value":34},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:57.549Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:58.465Z","value":97},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:58.469Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:58.531Z","value":12},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:58.536Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:58.546Z","value":6},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:58.549Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:24:59.465Z","value":1},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:59.468Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:24:59.532Z","value":28},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:59.534Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:24:59.546Z","value":69},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:24:59.549Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:00.466Z","value":72},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:00.469Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:00.533Z","value":25},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:00.536Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:00.547Z","value":18},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:00.550Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:01.467Z","value":100},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:01.470Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:01.534Z","value":29},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:01.536Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:01.547Z","value":2},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:01.548Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:02.467Z","value":86},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:02.468Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:02.536Z","value":11},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:02.539Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:02.547Z","value":93},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:02.552Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:03.469Z","value":5},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:03.479Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:03.541Z","value":87},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:03.545Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:03.547Z","value":74},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:03.550Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:04.470Z","value":42},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:04.477Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:04.542Z","value":91},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:04.550Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:04.547Z","value":41},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:04.552Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:05.470Z","value":11},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:05.474Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:05.543Z","value":14},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:05.551Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:05.547Z","value":57},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:05.554Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:06.471Z","value":9},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:06.478Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:06.543Z","value":94},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:06.554Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:06.549Z","value":79},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:06.556Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:07.472Z","value":83},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:07.478Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:07.543Z","value":89},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:07.547Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:07.548Z","value":20},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:07.553Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:08.473Z","value":13},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:08.480Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:08.544Z","value":26},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:08.549Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:08.551Z","value":51},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:08.555Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:09.473Z","value":99},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:09.477Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:09.544Z","value":44},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:09.547Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:09.551Z","value":6},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:09.554Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:10.477Z","value":73},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:10.481Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:10.546Z","value":50},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:10.554Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:10.551Z","value":2},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:10.557Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:11.478Z","value":59},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:11.485Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:11.547Z","value":25},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:11.554Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:11.551Z","value":63},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:11.557Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:12.479Z","value":49},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:12.486Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:12.549Z","value":94},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:12.557Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:12.554Z","value":19},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:12.559Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:13.480Z","value":81},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:13.487Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:13.550Z","value":0},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:13.568Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:13.554Z","value":74},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:13.569Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:14.482Z","value":85},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:14.486Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:14.550Z","value":97},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:14.557Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:14.554Z","value":18},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:14.559Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:15.483Z","value":15},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:15.489Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:15.551Z","value":25},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:15.560Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:15.555Z","value":61},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:15.562Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:16.484Z","value":36},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:16.492Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:16.552Z","value":8},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:16.561Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:16.556Z","value":57},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:16.564Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:17.485Z","value":98},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:17.491Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:17.553Z","value":90},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:17.559Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:17.557Z","value":18},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:17.563Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:18.486Z","value":55},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:18.492Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:18.554Z","value":2},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:18.559Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:18.556Z","value":21},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:18.560Z"}
+{"data":{"sensorId":1,"timestamp":"2025-02-17T19:25:19.488Z","value":15},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:19.493Z"}
+{"data":{"sensorId":2,"timestamp":"2025-02-17T19:25:19.555Z","value":50},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:19.559Z"}
+{"data":{"sensorId":3,"timestamp":"2025-02-17T19:25:19.557Z","value":47},"error":"","level":"error","message":"Ошибка отправки данных","timestamp":"2025-02-17T19:25:19.560Z"}
